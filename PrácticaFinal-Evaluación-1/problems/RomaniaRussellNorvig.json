@@ -1,0 +1,360 @@
+{
+  "map": {
+    "cities": [
+      {
+        "id": 0,
+        "name": "Oradea",
+        "lat": 47.058715,
+        "lon": 21.927919041661156
+      },
+      {
+        "id": 1,
+        "name": "Zerind",
+        "lat": 46.6235188,
+        "lon": 21.5169819
+      },
+      {
+        "id": 2,
+        "name": "Arad",
+        "lat": 46.1753793,
+        "lon": 21.3196342
+      },
+      {
+        "id": 3,
+        "name": "Sibiu",
+        "lat": 45.7973912,
+        "lon": 24.1519202
+      },
+      {
+        "id": 4,
+        "name": "Fagaras",
+        "lat": 45.8449433,
+        "lon": 24.9703224
+      },
+      {
+        "id": 5,
+        "name": "Vaslui",
+        "lat": 46.4977648,
+        "lon": 27.803085484685425
+      },
+      {
+        "id": 6,
+        "name": "Rimnicu Vilcea",
+        "lat": 45.1031731,
+        "lon": 24.3647209
+      },
+      {
+        "id": 7,
+        "name": "Timisoara",
+        "lat": 45.7538355,
+        "lon": 21.2257474
+      },
+      {
+        "id": 8,
+        "name": "Lugoj",
+        "lat": 45.68675345,
+        "lon": 21.90138082837388
+      },
+      {
+        "id": 9,
+        "name": "Pitesti",
+        "lat": 44.8572343,
+        "lon": 24.8719422
+      },
+      {
+        "id": 10,
+        "name": "Mehadia",
+        "lat": 44.9043893,
+        "lon": 22.3654341
+      },
+      {
+        "id": 11,
+        "name": "Urziceni",
+        "lat": 44.717002,
+        "lon": 26.6324066
+      },
+      {
+        "id": 12,
+        "name": "Hirsova",
+        "lat": 44.6845557,
+        "lon": 27.9513766
+      },
+      {
+        "id": 13,
+        "name": "Bucharest",
+        "lat": 44.4361414,
+        "lon": 26.1027202
+      },
+      {
+        "id": 14,
+        "name": "Drobeta-Turnu Severin",
+        "lat": 44.6257835,
+        "lon": 22.6531975
+      },
+      {
+        "id": 15,
+        "name": "Craiova",
+        "lat": 44.3190159,
+        "lon": 23.7965614
+      },
+      {
+        "id": 16,
+        "name": "Giurgiu",
+        "lat": 43.8959058,
+        "lon": 25.9658111
+      },
+      {
+        "id": 17,
+        "name": "Eforie",
+        "lat": 44.0637934,
+        "lon": 28.6337441
+      },
+      {
+        "id": 18,
+        "name": "Neamt",
+        "lat": 46.990657,
+        "lon": 26.48491657449838
+      },
+      {
+        "id": 19,
+        "name": "Iasi",
+        "lat": 47.1615341,
+        "lon": 27.5836142
+      }
+    ],
+    "roads": [
+      {
+        "origin": 0,
+        "destination": 1,
+        "distance": 71
+      },
+      {
+        "origin": 0,
+        "destination": 3,
+        "distance": 151
+      },
+      {
+        "origin": 1,
+        "destination": 0,
+        "distance": 71
+      },
+      {
+        "origin": 1,
+        "destination": 2,
+        "distance": 75
+      },
+      {
+        "origin": 2,
+        "destination": 1,
+        "distance": 75
+      },
+      {
+        "origin": 2,
+        "destination": 3,
+        "distance": 140
+      },
+      {
+        "origin": 2,
+        "destination": 7,
+        "distance": 118
+      },
+      {
+        "origin": 3,
+        "destination": 0,
+        "distance": 151
+      },
+      {
+        "origin": 3,
+        "destination": 2,
+        "distance": 140
+      },
+      {
+        "origin": 3,
+        "destination": 4,
+        "distance": 99
+      },
+      {
+        "origin": 3,
+        "destination": 6,
+        "distance": 80
+      },
+      {
+        "origin": 4,
+        "destination": 3,
+        "distance": 99
+      },
+      {
+        "origin": 4,
+        "destination": 13,
+        "distance": 211
+      },
+      {
+        "origin": 5,
+        "destination": 11,
+        "distance": 142
+      },
+      {
+        "origin": 5,
+        "destination": 19,
+        "distance": 92
+      },
+      {
+        "origin": 6,
+        "destination": 3,
+        "distance": 80
+      },
+      {
+        "origin": 6,
+        "destination": 9,
+        "distance": 97
+      },
+      {
+        "origin": 6,
+        "destination": 15,
+        "distance": 146
+      },
+      {
+        "origin": 7,
+        "destination": 2,
+        "distance": 118
+      },
+      {
+        "origin": 7,
+        "destination": 8,
+        "distance": 111
+      },
+      {
+        "origin": 8,
+        "destination": 7,
+        "distance": 111
+      },
+      {
+        "origin": 8,
+        "destination": 10,
+        "distance": 70
+      },
+      {
+        "origin": 9,
+        "destination": 6,
+        "distance": 97
+      },
+      {
+        "origin": 9,
+        "destination": 13,
+        "distance": 101
+      },
+      {
+        "origin": 9,
+        "destination": 15,
+        "distance": 138
+      },
+      {
+        "origin": 10,
+        "destination": 8,
+        "distance": 70
+      },
+      {
+        "origin": 10,
+        "destination": 14,
+        "distance": 75
+      },
+      {
+        "origin": 11,
+        "destination": 5,
+        "distance": 142
+      },
+      {
+        "origin": 11,
+        "destination": 12,
+        "distance": 98
+      },
+      {
+        "origin": 11,
+        "destination": 13,
+        "distance": 85
+      },
+      {
+        "origin": 12,
+        "destination": 11,
+        "distance": 98
+      },
+      {
+        "origin": 12,
+        "destination": 17,
+        "distance": 86
+      },
+      {
+        "origin": 13,
+        "destination": 4,
+        "distance": 211
+      },
+      {
+        "origin": 13,
+        "destination": 9,
+        "distance": 101
+      },
+      {
+        "origin": 13,
+        "destination": 11,
+        "distance": 85
+      },
+      {
+        "origin": 13,
+        "destination": 16,
+        "distance": 90
+      },
+      {
+        "origin": 14,
+        "destination": 10,
+        "distance": 75
+      },
+      {
+        "origin": 14,
+        "destination": 15,
+        "distance": 120
+      },
+      {
+        "origin": 15,
+        "destination": 6,
+        "distance": 146
+      },
+      {
+        "origin": 15,
+        "destination": 9,
+        "distance": 138
+      },
+      {
+        "origin": 15,
+        "destination": 14,
+        "distance": 120
+      },
+      {
+        "origin": 16,
+        "destination": 13,
+        "distance": 90
+      },
+      {
+        "origin": 17,
+        "destination": 12,
+        "distance": 86
+      },
+      {
+        "origin": 18,
+        "destination": 19,
+        "distance": 87
+      },
+      {
+        "origin": 19,
+        "destination": 5,
+        "distance": 92
+      },
+      {
+        "origin": 19,
+        "destination": 18,
+        "distance": 87
+      }
+    ]
+  },
+  "departure": 2,
+  "goal": 13
+}
